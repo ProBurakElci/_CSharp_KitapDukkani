@@ -1,4 +1,4 @@
-# Kitap Dukkani
+# Kitap Dükkanı
 
 C# Dili ile yazılmış kitap dükkanı programı
 
